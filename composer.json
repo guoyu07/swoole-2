@@ -1,0 +1,19 @@
+{
+    "name": "ymwlpay/swoole",
+    "description": "laravel swoole",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ymwlpay",
+            "email": "ymwlpay@163.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload":{
+        "psr_4":{
+            "ymwlpay\\swoole":"src/"
+        }
+    }
+}
