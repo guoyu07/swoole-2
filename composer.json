@@ -13,7 +13,7 @@
     },
     "autoload":{
         "psr-4":{
-            "ymwlpay\\swoole":"src/"
+            "ymwlpay\\swoole\\":"src/"
         }
     }
 }
